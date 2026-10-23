@@ -1,1 +1,16 @@
-=
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6fa;
+  color: #1f2937;
+}
+
+button:focus-visible {
+  outline: 3px solid #f79009;
+  outline-offset: 2px;
+}
