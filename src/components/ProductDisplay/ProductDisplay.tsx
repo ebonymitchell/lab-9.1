@@ -1,5 +1,5 @@
 
-import type { ProductDisplayProps } from "../../types";
+import type { ProductDisplayProps } from "../../../types";
 
 export function ProductDisplay({
   product,
