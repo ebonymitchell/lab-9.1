@@ -1,5 +1,5 @@
-
-import type { ProductDisplayProps } from "../../../types";
+// Import the TypeScript interface for this component's props.
+import type { ProductDisplayProps } from "../../types";
 
 export function ProductDisplay({
   product,
